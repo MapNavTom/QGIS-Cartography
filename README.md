@@ -1,7 +1,7 @@
 # Star Wars Crawl Power Point
 Here is a .pptx file containing the Star Wars Crawl:
 
-QGIS-Cartography/Star Wars Crawl.pptx
+https://github.com/MapNavTom/QGIS-Cartography/Star Wars Crawl.pptx
 
 The sizing needs adjusting to improve the look.
 
